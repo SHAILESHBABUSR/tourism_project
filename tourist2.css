@@ -1,0 +1,7 @@
+.bg-container{
+    background-image: url("https://ik.imagekit.io/shailesh9304/my%20cdn/Screenshot%202024-12-30%20184627.png");
+    height: 450px;
+    width: 300px;
+    background-size:contain;
+
+}
